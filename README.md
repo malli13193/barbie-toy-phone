@@ -1,5 +1,6 @@
 # barbie-toy-phone
 Remember when you were a kid and every toy was a world of discovery? Taking apart toys, like a Barbie phone, was thrilling. Even if our attempts often ended in a pile of parts, the process was a priceless learning experience.
+![image](https://github.com/malli13193/barbie-toy-phone/assets/115869610/18a8d040-dd07-4a31-9b9b-0279bdad9799)
 
 
 # Sparking Innovation
